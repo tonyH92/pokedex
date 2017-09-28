@@ -47,6 +47,7 @@
 		EAFF0E281F7CA33500C0D0C6 /* PokedexUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PokedexUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		EAFF0E2C1F7CA33500C0D0C6 /* PokedexUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PokedexUITests.swift; sourceTree = "<group>"; };
 		EAFF0E2E1F7CA33500C0D0C6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EAFF0E3A1F7CA58C00C0D0C6 /* pokemon.csv */ = {isa = PBXFileReference; lastKnownFileType = text; path = pokemon.csv; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +102,7 @@
 				EAFF0E0E1F7CA33500C0D0C6 /* ViewController.swift */,
 				EAFF0E101F7CA33500C0D0C6 /* Main.storyboard */,
 				EAFF0E131F7CA33500C0D0C6 /* Assets.xcassets */,
+				EAFF0E3A1F7CA58C00C0D0C6 /* pokemon.csv */,
 				EAFF0E151F7CA33500C0D0C6 /* LaunchScreen.storyboard */,
 				EAFF0E181F7CA33500C0D0C6 /* Info.plist */,
 			);
